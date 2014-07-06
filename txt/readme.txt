@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 ffffffff
 ssssssgggg
 add btanch1
+add master
