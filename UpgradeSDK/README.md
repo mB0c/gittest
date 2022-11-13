@@ -16,7 +16,7 @@ response:
 |参数|类型|是否可空|描述|
 |---|---|---|---|
 |code|int|否|响应结果
-|data|List<UpgradeItem>|是|失败或者无更新为空，非空则需升级
+|data|List&lt;UpgradeItem&gt;|是|失败或者无更新为空，非空则需升级
 |msg|String|是|结果描述
 
 UpgradeItem:
